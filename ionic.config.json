@@ -1,0 +1,8 @@
+{
+  "name": "hriox.ionic",
+  "app_id": "8a527130",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
